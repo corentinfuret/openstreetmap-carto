@@ -22,6 +22,7 @@ node,way   building     text         polygon
 way        construction text         linear
 way        covered      text         linear
 way        foot         text         linear
+node,way   healthcare   text         polygon
 node,way   highway      text         linear
 node,way   historic     text         polygon
 way        horse        text         linear
