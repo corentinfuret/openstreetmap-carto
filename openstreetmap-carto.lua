@@ -19,6 +19,7 @@ local polygon_keys = {
     'golf',
     'emergency',
     'harbour',
+    'healthcare',
     'historic',
     'landuse',
     'leisure',
