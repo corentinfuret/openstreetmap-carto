@@ -611,7 +611,7 @@
       marker-line-width: 0;
     }
     [zoom >= 18] {
-      marker-file: url('symbols/amenity/laboratory.svg');
+      marker-file: url('symbols/amenity/laboratory_deuzeffe_2.svg');
     }
     marker-fill: @health-color;
     marker-clip: false;
